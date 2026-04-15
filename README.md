@@ -10,4 +10,4 @@
   <p>My personal blog about software development and social dynamics.</p>
 </div>
 
-i
+it is just a test what happend 
